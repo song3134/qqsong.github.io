@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://qqsong.github.io/files/qqsong_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://song3134.github.io/files/song3134_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 * I am currently a 3rd year Ph.D. student in the [Department of Computer Science and Engineering](https://cs.stanford.edu/) at [Texas A&M University](https://www.stanford.edu/). I am working at the [DATA Lab](http://people.tamu.edu/~guangzhou92/Data_Lab/) under the supervision of [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/students.html). 
