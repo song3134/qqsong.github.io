@@ -20,7 +20,7 @@ author_profile: true
 <b>[Multi-Label Adversarial Perturbations](http://song3134.github.io/publications/Adv)</b><br><b>Qingquan Song</b>, Haifeng Jin, Xiao Huang, and Xia Hu. <i>IEEE International Conference on Data Mining.</i> <b>ICDM 2018</b>.
 
 
-<b>[TrailMix: An Ensemble Recommender System for Playlist Curation and Continuation](http://song3134.github.io/publications/TrailMix)</b><br>Xing Zhao, <b>Qingquan Song</b>, Jame Caverlee, and Xia Hu. <i>The ACM Conference Series on Recommender Systems.</i> <b>RecSys 2018</b>.
+<b>[TrailMix: An Ensemble Recommender System for Playlist Curation and Continuation](http://song3134.github.io/publications/TrailMix)</b><br>Xing Zhao, <b>Qingquan Song</b>, Jame Caverlee, and Xia Hu. <i>ACM Recommender Systems Challenge workshop.</i> <b>RecSys 2018</b>.
 
 <b>[Towards Explanation of DNN-based Prediction with Guided Feature Inversion](http://song3134.github.io/publications/Interpret)</b><br> Mengnan Du, Ninghao Liu, <b>Qingquan Song</b>, and Xia Hu. <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2018</b>.
 
