@@ -22,7 +22,7 @@ author_profile: true
 
 <b>[TrailMix: An Ensemble Recommender System for Playlist Curation and Continuation](http://song3134.github.io/publications/TrailMix)</b><br>Xing Zhao, <b>Qingquan Song</b>, Jame Caverlee, and Xia Hu. <i>The ACM Conference Series on Recommender Systems.</i> <b>RecSys 2018</b>.
 
-<b>[Towards Explanation of DNN-based Prediction with Guided Feature Inversion](http://song3134.github.io/publications/Interpret)</b><br> Mengnan Du, Ninghao Liu,<b>Qingquan Song</b>, and Xia Hu. <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2018</b>.
+<b>[Towards Explanation of DNN-based Prediction with Guided Feature Inversion](http://song3134.github.io/publications/Interpret)</b><br> Mengnan Du, Ninghao Liu, <b>Qingquan Song</b>, and Xia Hu. <i>The 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2018</b>.
 
 
 
