@@ -9,6 +9,9 @@ main:
   - title: "Awards & Honors"
     url: /awards/
 
+  - title: "Software Development"
+    url: /Software_Development/  
+
   # - title: "Talks"
   #   url: /talks/    
 
