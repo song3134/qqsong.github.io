@@ -5,6 +5,22 @@ permalink: /publications/MAST
 venue: "The 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. (KDD' 2017)"
 date: 2017-8-16
 citation: '<b>Qingquan Song</b>, Xiao Huang, Hancheng Ge, Jame Caverlee, and Xia Hu. <i>The 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i>. <b>KDD 2017</b>.'
+
+<!-- ## Cite this work
+
+Biblatex entry:
+
+    @online{jin2018efficient,
+      author       = {Qingquan Song and Xiao Huang and Hancheng Ge and James Caverlee and Xia Hu},
+      title        = {Multi-Aspect Streaming Tensor Completion},
+      date         = {2017-08-16},
+      year         = {2017},
+      eprintclass  = {cs.LG},
+      eprinttype   = {arXiv},
+      eprint       = {cs.LG/1806.10282},
+    }
+ -->
+
 ---
 [[Paper]](http://song3134.github.io/files/Qingquan_KDD17.pdf) 
 <!-- [[Code]](https://github.com/song3134/MAST)  -->
