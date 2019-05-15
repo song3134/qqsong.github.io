@@ -11,13 +11,13 @@ author_profile: true
 
 ## 2019
 
-<b>[Coupled Variational Recurrent Collaborative Filtering](http://song3134.github.io/publications/CVRCF)</b><br><b>Qingquan Song</b>, Shiyu Chang, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>KDD[paper](??) [code](https://github.com/song3134/CVRCF)
+<b>[Coupled Variational Recurrent Collaborative Filtering](http://song3134.github.io/publications/CVRCF)</b><br><b>Qingquan Song</b>, Shiyu Chang, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>. [paper](??) [code](https://github.com/song3134/CVRCF)
 
 
-<b>[Auto-Keras: Efficient Neural Architecture Search with Network Morphism](http://song3134.github.io/publications/AK)</b><br>Haifeng Jin, <b>Qingquan Song</b>, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>KDD[paper](??)
+<b>[Auto-Keras: Efficient Neural Architecture Search with Network Morphism](http://song3134.github.io/publications/AK)</b><br>Haifeng Jin, <b>Qingquan Song</b>, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>. [paper](??)
 
 
-<b>[Graph Recurrent Networks with Attributed Random Walks](http://song3134.github.io/publications/GraphRNA)</b><br>Xiao Huang, <b>Qingquan Song</b>, Yuening Li, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>KDD[paper](??)
+<b>[Graph Recurrent Networks with Attributed Random Walks](http://song3134.github.io/publications/GraphRNA)</b><br>Xiao Huang, <b>Qingquan Song</b>, Yuening Li, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>. [paper](??)
 
 
 <b>[Tensor Completion Algorithms in Big Data Analytics](http://song3134.github.io/publications/Survey)</b><br><b>Qingquan Song</b>,Hancheng Ge, James Caverlee, and Xia Hu. <i>ACM Transactions on Knowledge Discovery from Data.</i> <b>TKDD 2019</b>. [paper](https://dl.acm.org/citation.cfm?id=3278607)
