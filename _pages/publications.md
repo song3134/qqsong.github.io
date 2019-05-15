@@ -4,18 +4,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
+<!-- ## Preprints -->
 
-<b>[Auto-Keras: Efficient Neural Architecture Search with Network Morphism](http://song3134.github.io/publications/AK)</b><br>Haifeng Jin, <b>Qingquan Song</b>, and Xia Hu. [paper](https://arxiv.org/pdf/1806.10282.pdf) [homepage](https://autokeras.com)
 
 <!-- <i>System Machine Learning.</i> <b>SysML 2019</b>.-->
 
 ## 2019
+
+<b>[Coupled Variational Recurrent Collaborative Filtering](http://song3134.github.io/publications/CVRCF)</b><br><b>Qingquan Song</b>, Shiyu Chang, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>KDD[paper](??) [code](https://github.com/song3134/CVRCF)
+
+
+<b>[Auto-Keras: Efficient Neural Architecture Search with Network Morphism](http://song3134.github.io/publications/AK)</b><br>Haifeng Jin, <b>Qingquan Song</b>, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>KDD[paper](??)
+
+
+<b>[Graph Recurrent Networks with Attributed Random Walks](http://song3134.github.io/publications/GraphRNA)</b><br>Xiao Huang, <b>Qingquan Song</b>, Yuening Li, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>KDD[paper](??)
+
+
 <b>[Tensor Completion Algorithms in Big Data Analytics](http://song3134.github.io/publications/Survey)</b><br><b>Qingquan Song</b>,Hancheng Ge, James Caverlee, and Xia Hu. <i>ACM Transactions on Knowledge Discovery from Data.</i> <b>TKDD 2019</b>. [paper](https://dl.acm.org/citation.cfm?id=3278607)
 
 
 <b>[Large-Scale Heterogeneous Feature Embedding with Networks](http://song3134.github.io/publications/FeatWalk)</b><br>Xiao Huang, <b>Qingquan Song</b>, Fan Yang, and Xia Hu. <i>The 33rd AAAI Conference on Artificial Intelligence..</i> <b>AAAI 2019</b>. [paper](http://people.tamu.edu/~xhuang/Xiao_AAAI19.pdf) [slide](http://people.tamu.edu/~xhuang/Xiao_Slides_AAAI19.pdf) [code](http://people.tamu.edu/~xhuang/Code.html)
-
 
 
 
