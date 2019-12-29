@@ -22,8 +22,8 @@ Biblatex entry:
  -->
 
 ---
-[[Paper]](http://song3134.github.io/files/Qingquan_KDD17.pdf) 
-<!-- [[Code]](https://github.com/song3134/MAST)  -->
+[[Paper]](http://qingquansong.github.io/files/Qingquan_KDD17.pdf) 
+<!-- [[Code]](https://github.com/qingquansong/MAST)  -->
 
 
 ## Abstract

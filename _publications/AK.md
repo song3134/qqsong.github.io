@@ -25,7 +25,7 @@ Biblatex entry:
 
 ---
 [[Paper]](https://arxiv.org/pdf/1806.10282.pdf) [[Homepage]](https://autokeras.com) 
-<!-- [[Code]](https://github.com/song3134/MAST)  -->
+<!-- [[Code]](https://github.com/qingquansong/MAST)  -->
 
 
 <!-- ## Abstract -->

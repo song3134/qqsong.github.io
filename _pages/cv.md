@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Curriculum Vitae [PDF]](http://song3134.github.io/files/song3134_cv.pdf)
+[Click to View My Curriculum Vitae [PDF]](http://qingquansong.github.io/files/qingquansong_cv.pdf)
 
-<!-- <embed src="http://song3134.com/files/song3134_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://qingquansong.com/files/qingquansong_cv.pdf" width="650" height="1800" type='application/pdf'> -->

@@ -11,9 +11,9 @@ title                    : "Qingquan Song"
 title_separator          : "-"
 name                     : &name "Qingquan Song"
 description              : &description "PhD student, Department of Computer Science and Engineering, Texas A&M University"
-url                      : https://song3134.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qingquansong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "song3134/song3134.github.io"
+repository               : "qingquansong/qingquansong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "song3134"
+  github           : "qingquansong"
   google_plus      :
   keybase          :
   instagram        : 
