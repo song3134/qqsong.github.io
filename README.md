@@ -1,1 +1,1 @@
-[Personal git homepage!](https://qingquansong.github.io/)
+[Personal git homepage.](https://qingquansong.github.io/)
