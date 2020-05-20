@@ -9,15 +9,37 @@ author_profile: true
 
 <!-- <i>System Machine Learning.</i> <b>SysML 2019</b>.-->
 
+## Preprints
+
+
+<b>[Auto-GNN: Neural Architecture Search of Graph Neural Networks](https://arxiv.org/pdf/1909.03184.pdf)</b><br>Kaixiong Zhou, <b>Qingquan Song</b>, Xiao Huang, and Xia Hu. <i>https://arxiv.org/pdf/1909.03184.pdf.</i>. [paper](https://arxiv.org/pdf/1909.03184.pdf)
+
+
+<b>[Techniques for Automated Machine Learning](https://arxiv.org/pdf/1907.08908.pdf)</b><br>Yi-Wei Chen, <b>Qingquan Song</b>, and Xia Hu. <i>arXiv preprint arXiv:1907.08908.</i>. [paper](https://arxiv.org/pdf/1907.08908.pdf)
+
+
+## 2020
+
+<b>[Towards Automated Neural Architecture Discovery for Click-Through Rate Prediction](??)</b><br><b>Qingquan Song</b>, Dehua Cheng, Eric Zhou, Jiyan Yang, Yuandong Tian, and Xia Hu. <i>The 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2020</b>. [paper](??) [code](??)
+
+
+
+<b>[Multi-Channel Graph Convolutional Networks](??)</b><br>Kaixiong, Zhou, <b>Qingquan Song</b>, Xiao Huang, Daochen Zha, Na Zou, and Xia Hu. <i>The 29th International Joint Conference on Artificial Intelligence.</i> <b>IJCAI 2020</b>. [paper](??)
+
+
+
+<b>[On Robustness of Neural Architecture Search under Label Noise](https://www.frontiersin.org/articles/10.3389/fdata.2020.00002/full)</b><br>Yi-Wei Chen, <b>Qingquan Song</b>, Xi Liu, P. S. Sastry, and Xia Hu. <i>Frontiers in Big Data.</i>. [paper](https://www.frontiersin.org/articles/10.3389/fdata.2020.00002/full)
+
+
 ## 2019
 
-<b>[Coupled Variational Recurrent Collaborative Filtering](http://qingquansong.github.io/publications/CVRCF)</b><br><b>Qingquan Song</b>, Shiyu Chang, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>. [paper](??) [code](https://github.com/qingquansong/CVRCF)
+<b>[Coupled Variational Recurrent Collaborative Filtering](http://qingquansong.github.io/publications/CVRCF)</b><br><b>Qingquan Song</b>, Shiyu Chang, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>. [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330940) [code](https://github.com/qingquansong/CVRCF)
 
 
-<b>[Auto-Keras: Efficient Neural Architecture Search with Network Morphism](http://qingquansong.github.io/publications/AK)</b><br>Haifeng Jin, <b>Qingquan Song</b>, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>. [paper](??)
+<b>[Auto-Keras: Efficient Neural Architecture Search with Network Morphism](http://qingquansong.github.io/publications/AK)</b><br>Haifeng Jin, <b>Qingquan Song</b>, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>. [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330648) [code](http://autokeras.com)
 
 
-<b>[Graph Recurrent Networks with Attributed Random Walks](http://qingquansong.github.io/publications/GraphRNA)</b><br>Xiao Huang, <b>Qingquan Song</b>, Yuening Li, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>. [paper](??)
+<b>[Graph Recurrent Networks with Attributed Random Walks](http://qingquansong.github.io/publications/GraphRNA)</b><br>Xiao Huang, <b>Qingquan Song</b>, Yuening Li, and Xia Hu. <i>The 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2019</b>. [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330941)
 
 
 <b>[Tensor Completion Algorithms in Big Data Analytics](http://qingquansong.github.io/publications/Survey)</b><br><b>Qingquan Song</b>,Hancheng Ge, James Caverlee, and Xia Hu. <i>ACM Transactions on Knowledge Discovery from Data.</i> <b>TKDD 2019</b>. [paper](https://dl.acm.org/citation.cfm?id=3278607)
